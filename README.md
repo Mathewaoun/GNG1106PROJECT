@@ -1,4 +1,4 @@
-GNG1106PROJECT (Mathew Aoun & Elias Tarabey)
+#GNG1106PROJECT (Mathew Aoun & Elias Tarabey)
 The problem that we are trying to resolve is determining the appropriate value of the inductance
 L for a specific inductor so that it could be conformed to the desired rate of dissipation td of the
 RLC circuit. This determination will be based on a given resistor (R), capacitor (C) and time
